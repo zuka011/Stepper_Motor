@@ -1,0 +1,28 @@
+#####################################################
+# Syntax Coloring Map For Stepper_Motor Library 
+#####################################################
+
+###############
+# Class Names 
+###############
+
+StepperMotor	KEYWORD1
+
+################
+# Method Names 
+################
+
+attach	KEYWORD2
+powerSaverMode	KEYWORD2
+interruptable	KEYWORD2
+setPosition	KEYWORD2
+setStartPosition	KEYWORD2
+getPosition	KEYWORD2
+setSpeed	KEYWORD2
+step	KEYWORD2
+isRotating	KEYWORD2
+stop	KEYWORD2
+
+################
+# Constants
+################
